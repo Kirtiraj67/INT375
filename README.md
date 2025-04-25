@@ -7,4 +7,4 @@ The dataset titled 'marriage_data_india' comprises various demographic and socio
 - Urban/Rural Background, Spouse Working Status
 - Inter-Caste and Inter-Religion Status
 
-In addition to raw data, pivot table summaries 
+In addition to raw data, pivot table summaries   
